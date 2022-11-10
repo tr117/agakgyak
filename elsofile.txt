@@ -1,3 +1,8 @@
 Changed:
+
+from ag1 in ag2
+new line in ag2
+
 in ag1
 new line
+
